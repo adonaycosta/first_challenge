@@ -1,0 +1,14 @@
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\bin\Debug\net8.0\BemVindo.exe
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\bin\Debug\net8.0\BemVindo.deps.json
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\bin\Debug\net8.0\BemVindo.runtimeconfig.json
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\bin\Debug\net8.0\BemVindo.dll
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\bin\Debug\net8.0\BemVindo.pdb
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.AssemblyInfoInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.AssemblyInfo.cs
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.csproj.CoreCompileInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.dll
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\refint\BemVindo.dll
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.pdb
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\BemVindo.genruntimeconfig.cache
+C:\Users\Adonai\source\repos\Operacoes\BemVindo\obj\Debug\net8.0\ref\BemVindo.dll

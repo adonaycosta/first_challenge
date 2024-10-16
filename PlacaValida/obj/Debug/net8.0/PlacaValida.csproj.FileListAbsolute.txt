@@ -1,0 +1,14 @@
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\bin\Debug\net8.0\PlacaValida.exe
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\bin\Debug\net8.0\PlacaValida.deps.json
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\bin\Debug\net8.0\PlacaValida.runtimeconfig.json
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\bin\Debug\net8.0\PlacaValida.dll
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\bin\Debug\net8.0\PlacaValida.pdb
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.AssemblyInfoInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.AssemblyInfo.cs
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.csproj.CoreCompileInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.dll
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\refint\PlacaValida.dll
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.pdb
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\PlacaValida.genruntimeconfig.cache
+C:\Users\Adonai\source\repos\Operacoes\PlacaValida\obj\Debug\net8.0\ref\PlacaValida.dll

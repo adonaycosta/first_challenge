@@ -1,0 +1,14 @@
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\bin\Debug\net8.0\Operacoes.exe
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\bin\Debug\net8.0\Operacoes.deps.json
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\bin\Debug\net8.0\Operacoes.runtimeconfig.json
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\bin\Debug\net8.0\Operacoes.dll
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\bin\Debug\net8.0\Operacoes.pdb
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.AssemblyInfoInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.AssemblyInfo.cs
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.dll
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\refint\Operacoes.dll
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.pdb
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\Operacoes.genruntimeconfig.cache
+C:\Users\Adonai\source\repos\Operacoes\Operacoes\obj\Debug\net8.0\ref\Operacoes.dll

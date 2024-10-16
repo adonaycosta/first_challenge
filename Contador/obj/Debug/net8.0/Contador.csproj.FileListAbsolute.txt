@@ -1,0 +1,14 @@
+C:\Users\Adonai\source\repos\Operacoes\Contador\bin\Debug\net8.0\Contador.exe
+C:\Users\Adonai\source\repos\Operacoes\Contador\bin\Debug\net8.0\Contador.deps.json
+C:\Users\Adonai\source\repos\Operacoes\Contador\bin\Debug\net8.0\Contador.runtimeconfig.json
+C:\Users\Adonai\source\repos\Operacoes\Contador\bin\Debug\net8.0\Contador.dll
+C:\Users\Adonai\source\repos\Operacoes\Contador\bin\Debug\net8.0\Contador.pdb
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.AssemblyInfoInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.AssemblyInfo.cs
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.dll
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\refint\Contador.dll
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.pdb
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\Contador.genruntimeconfig.cache
+C:\Users\Adonai\source\repos\Operacoes\Contador\obj\Debug\net8.0\ref\Contador.dll
